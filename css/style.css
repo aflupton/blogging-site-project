@@ -1,0 +1,62 @@
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Umc_6how0QyJRl1XbBc62c49WHLwVXcKGaUqtLdeDnWqjec15A);
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px
+}
+
+
+div.Users {
+  border-radius: 10px 10px 10px 10px;
+  /*background-color: red;
+  border-color: red;*/
+  padding-left: 10px;
+}
+div.Message {
+  border-radius: 10px 10px 10px 10px;
+  /*background-color: blue;*/
+  vertical-align: top;
+  float:right;
+  text-align: justify;
+  margin: 0 auto;
+  width: 30em;
+  padding-right: 30px;
+}
+
+div.Text{
+  text-align: center;
+  width:50%;
+  padding-left: 30px;
+}
+
+
+div.AboutMe {
+  color:yellow;
+  font-size: 30px;
+  text-align: center;
+  width:50%;
+}
+
+div.AboutMe a{
+  color:yellow;
+}
+
+
+div.Bio{
+  text-align: justify;
+  margin: 0 auto;
+  width: 30em;
+}
+
+div.Bio a{
+  color: yellow;
+}
+
+.BlogPic{
+  width:40%;
+}
+.important{
+  font-style: italic;
+  color: #E94B3C;
+  font-weight: bold;
+}
