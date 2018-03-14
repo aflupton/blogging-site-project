@@ -11,6 +11,8 @@ div.Users {
   /*background-color: red;
   border-color: red;*/
   padding-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 div.Message {
   border-radius: 10px 10px 10px 10px;
@@ -21,12 +23,15 @@ div.Message {
   margin: 0 auto;
   width: 30em;
   padding-right: 30px;
+
 }
 
 div.Text{
   text-align: center;
   width:50%;
   padding-left: 30px;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 
@@ -35,6 +40,8 @@ div.AboutMe {
   font-size: 30px;
   text-align: center;
   width:50%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 div.AboutMe a{
@@ -59,4 +66,6 @@ div.Bio a{
   font-style: italic;
   color: #E94B3C;
   font-weight: bold;
+
+}
 }
